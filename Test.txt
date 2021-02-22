@@ -1,0 +1,6 @@
+Esta es una prueba de Git para la GameJam
+
+Este es un intento de ver si funciona todo correctamente
+
+
+Aprenderemos todo de Git
