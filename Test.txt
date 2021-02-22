@@ -1,6 +1,4 @@
 Esta es una prueba de Git para la GameJam de Jasper.
 
 Este es un intento de ver si funciona todo correctamente.
-Prueba numero 2
-
-A ver xd
+Prueba3
