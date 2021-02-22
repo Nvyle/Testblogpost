@@ -1,6 +1,6 @@
-Esta es una prueba de Git para la GameJam
+Esta es una prueba de Git para la GameJam de Jasper.
 
-Este es un intento de ver si funciona todo correctamente
+Este es un intento de ver si funciona todo correctamente.
+Prueba numero 2
 
-
-Aprenderemos todo de Git
+A ver xd
